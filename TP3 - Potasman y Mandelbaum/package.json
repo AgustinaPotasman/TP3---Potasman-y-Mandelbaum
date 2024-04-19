@@ -1,0 +1,13 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "e": "^0.2.33",
+    "express": "^4.19.2"
+  }
+}
